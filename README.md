@@ -1,1 +1,1 @@
-# JwPlayerV2
+# JwPlayer
